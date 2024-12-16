@@ -5,6 +5,6 @@ I present to you my crosshair application on this application you can add your o
 https://youtu.be/r1CR4U2D0Wk?si=NYSezhThSLB4CVHs
 
 # dev by slayoox
-🙂‍↕️Thanks to Xenio for teaching me everything
+😉Thanks to Xenio for teaching me everything
 # code in python
 
